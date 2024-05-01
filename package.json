@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node api/index.js",
-    "build": "mkdir -p public && cp -r api data public/'"
+    "start": "node api/index.js"
   },
   "keywords": [],
   "author": "",

@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get("/learning-plans", (req, res) => {
-    fs.readFile("data/learning-plans.json", "utf-8")
+    fs.readFile(path.join(process.cwd(), "data/learning-plans.json"), "utf-8")
         .then((data) => res.json(JSON.parse(data)))
         .catch((err) => res.status(500).json({ error: "Error reading learning plans" }));
 });
