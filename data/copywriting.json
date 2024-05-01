@@ -1,0 +1,109 @@
+{
+    "id": "copywriting",
+    "title": "Starting an Amazon FBM Business",
+    "lessonLevel": "Beginner",
+    "description": "This self-learning plan provides a step-by-step guide for starting an Amazon FBM business, including key topics, learning objectives, and weekly tasks.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Amazon FBM",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the Amazon FBM model and its benefits",
+                "Learn about the Amazon seller account setup process",
+                "Familiarize with Amazon's policies and requirements for FBM sellers"
+            ],
+            "topicsToCover": [
+                "What is Amazon FBM?",
+                "Advantages of the FBM model",
+                "Amazon seller account registration",
+                "Amazon's FBM policies and guidelines"
+            ],
+            "weeklyTasks": [
+                "Complete Amazon seller account registration",
+                "Review Amazon's FBM policies and requirements",
+                "Identify potential product categories to sell on Amazon"
+            ],
+            "resources": [
+                "Amazon Seller Central documentation on FBM",
+                "Online tutorials and guides on starting an Amazon FBM business"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Product Research and Sourcing",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Conduct thorough product research to identify profitable opportunities",
+                "Learn effective strategies for sourcing products from suppliers",
+                "Understand the importance of product pricing and profit margins"
+            ],
+            "topicsToCover": [
+                "Product research techniques",
+                "Evaluating product demand and competition",
+                "Supplier identification and negotiation",
+                "Pricing strategies for FBM sellers"
+            ],
+            "weeklyTasks": [
+                "Conduct product research and identify potential products to sell",
+                "Reach out to potential suppliers and negotiate wholesale prices",
+                "Determine optimal pricing for selected products"
+            ],
+            "resources": [
+                "Online tools for product research (e.g., Jungle Scout, Helium 10)",
+                "Guides on effective supplier sourcing and negotiation"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Inventory Management and Fulfillment",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the importance of efficient inventory management",
+                "Learn about the fulfillment process for FBM sellers",
+                "Develop a plan for handling customer orders and returns"
+            ],
+            "topicsToCover": [
+                "Inventory planning and forecasting",
+                "Warehouse management and storage",
+                "Fulfillment workflows and logistics",
+                "Customer service and returns management"
+            ],
+            "weeklyTasks": [
+                "Develop an inventory management system",
+                "Research and select a fulfillment solution (e.g., in-house, third-party logistics)",
+                "Create a customer service and returns policy"
+            ],
+            "resources": [
+                "Guides on inventory management for FBM sellers",
+                "Information on fulfillment options and third-party logistics providers"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Marketing and Sales Optimization",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Develop effective product listings and marketing strategies",
+                "Understand Amazon's advertising and promotion tools",
+                "Learn how to analyze and optimize sales performance"
+            ],
+            "topicsToCover": [
+                "Product listing optimization",
+                "Amazon advertising and sponsored products",
+                "Customer reviews and feedback management",
+                "Sales data analysis and performance optimization"
+            ],
+            "weeklyTasks": [
+                "Create and optimize product listings for selected products",
+                "Set up Amazon advertising campaigns and monitor performance",
+                "Develop a strategy for managing customer reviews and feedback"
+            ],
+            "resources": [
+                "Guides on Amazon product listing optimization",
+                "Information on Amazon advertising and promotion tools",
+                "Resources on sales data analysis and performance optimization"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "socialmarketing",
+    "title": "Social Media Marketing Self-Learning Plan",
+    "lessonLevel": "Beginner",
+    "description": "This self-learning plan covers the fundamental concepts and strategies of social media marketing for individuals looking to develop their skills in this area.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Social Media Marketing",
+            "studyHours": "8 hours",
+            "learningObjectives": [
+                "Understand the role of social media in modern marketing",
+                "Identify the major social media platforms and their unique characteristics",
+                "Learn how to set SMART goals for social media marketing"
+            ],
+            "topicsToCover": [
+                "Overview of social media marketing",
+                "Popular social media platforms and their features",
+                "Defining SMART goals for social media campaigns"
+            ],
+            "weeklyTasks": [
+                "Create accounts on the major social media platforms",
+                "Analyze the social media presence of a competitor or industry leader",
+                "Develop SMART goals for a personal social media marketing plan"
+            ],
+            "resources": [
+                "The Ultimate Guide to Social Media Marketing (ebook)",
+                "Social Media Marketing for Beginners (online course)",
+                "Social Media Examiner blog (website)"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Content Creation and Curation",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the importance of content in social media marketing",
+                "Learn techniques for creating engaging and shareable content",
+                "Discover strategies for curating relevant content from other sources"
+            ],
+            "topicsToCover": [
+                "Types of social media content (text, images, videos, etc.)",
+                "Best practices for content creation",
+                "Content curation and its benefits"
+            ],
+            "weeklyTasks": [
+                "Create a content calendar for the next month",
+                "Produce and publish at least three pieces of original content",
+                "Curate and share relevant content from industry influencers"
+            ],
+            "resources": [
+                "The Art of Social Media (book)",
+                "Canva (design tool)",
+                "Hootsuite (social media management platform)"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Audience Engagement and Community Building",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the importance of audience engagement in social media marketing",
+                "Learn strategies for building and nurturing an online community",
+                "Discover tools and techniques for effective social media engagement"
+            ],
+            "topicsToCover": [
+                "Importance of audience engagement",
+                "Techniques for building an online community",
+                "Social media engagement best practices"
+            ],
+            "weeklyTasks": [
+                "Analyze the engagement metrics of your social media posts",
+                "Respond to comments and messages from your followers",
+                "Participate in relevant online communities and discussions"
+            ],
+            "resources": [
+                "The Science of Social Media (podcast)",
+                "Sprout Social (social media management tool)",
+                "Buffer (social media scheduling and analytics)"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Social Media Advertising and Analytics",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the basics of social media advertising",
+                "Learn how to set up and manage social media ad campaigns",
+                "Discover the importance of social media analytics and how to use them"
+            ],
+            "topicsToCover": [
+                "Introduction to social media advertising",
+                "Setting up and managing ad campaigns",
+                "Social media analytics and performance tracking"
+            ],
+            "weeklyTasks": [
+                "Create and launch a social media ad campaign",
+                "Analyze the performance of your organic and paid social media content",
+                "Develop a plan to optimize your social media marketing strategy based on the analytics"
+            ],
+            "resources": [
+                "The Ultimate Guide to Social Media Advertising (ebook)",
+                "Facebook Ads Manager (advertising platform)",
+                "Google Analytics (web analytics tool)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "cybersecurity",
+    "title": "Self-Learning Plan for Cybersecurity",
+    "lessonLevel": "Beginner",
+    "description": "This self-learning plan is designed to help beginners develop a foundational understanding of cybersecurity concepts and skills.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Cybersecurity",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the importance of cybersecurity in the digital age",
+                "Identify common cyber threats and attack vectors",
+                "Learn about the basic principles of information security"
+            ],
+            "topicsToCover": [
+                "Cybersecurity fundamentals",
+                "Cyber threats and vulnerabilities",
+                "Information security principles (confidentiality, integrity, availability"
+            ],
+            "weeklyTasks": [
+                "Complete online cybersecurity courses or tutorials",
+                "Read industry publications and news articles on cybersecurity",
+                "Participate in online cybersecurity forums or communities"
+            ],
+            "resources": [
+                "Cybersecurity Fundamentals (Coursera)",
+                "Introduction to Information Security (edX)",
+                "Cybersecurity Basics (Udemy)"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Network Security Essentials",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the basics of network security protocols and technologies",
+                "Learn about common network security threats and mitigation strategies",
+                "Gain hands-on experience with network security tools and techniques"
+            ],
+            "topicsToCover": [
+                "Network security protocols (e.g., SSL/TLS, IPsec, VPNs)",
+                "Firewall configuration and management",
+                "Intrusion detection and prevention systems (IDS/IPS)"
+            ],
+            "weeklyTasks": [
+                "Set up a virtual network environment and practice network security configurations",
+                "Analyze network traffic and identify potential security issues",
+                "Research and compare different network security tools and solutions"
+            ],
+            "resources": [
+                "Network Security Essentials (Udemy)",
+                "Practical Network Security (Pluralsight)",
+                "Network Security Fundamentals (LinkedIn Learning)"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Secure Software Development",
+            "studyHours": "15 hours",
+            "learningObjectives": [
+                "Understand the principles of secure software development",
+                "Learn about common software vulnerabilities and how to mitigate them",
+                "Gain experience with secure coding practices and tools"
+            ],
+            "topicsToCover": [
+                "Secure Software Development Life Cycle (SDLC)",
+                "Input validation and sanitization",
+                "Secure coding practices (e.g., OWASP Top 10)"
+            ],
+            "weeklyTasks": [
+                "Complete a secure coding challenge or project",
+                "Review and analyze code for potential security vulnerabilities",
+                "Research and compare different secure coding tools and frameworks"
+            ],
+            "resources": [
+                "Secure Coding in Java (Coursera)",
+                "Secure Coding Practices (Udemy)",
+                "OWASP Top 10 (OWASP Foundation)"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Cybersecurity Risk Management",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the principles of cybersecurity risk management",
+                "Learn about risk assessment and mitigation strategies",
+                "Gain knowledge on incident response and business continuity planning"
+            ],
+            "topicsToCover": [
+                "Cybersecurity risk assessment and management",
+                "Incident response planning and execution",
+                "Business continuity and disaster recovery"
+            ],
+            "weeklyTasks": [
+                "Conduct a risk assessment for a hypothetical organization",
+                "Develop an incident response plan for a cybersecurity incident",
+                "Research and compare different business continuity and disaster recovery solutions"
+            ],
+            "resources": [
+                "Cybersecurity Risk Management (Coursera)",
+                "Incident Response and Business Continuity (Udemy)",
+                "NIST Cybersecurity Framework (NIST)"
+            ]
+        }
+    ]
+}

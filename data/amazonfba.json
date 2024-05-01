@@ -1,0 +1,111 @@
+{
+    "id": "amazonfba",
+    "title": "Starting an Amazon FBA Business",
+    "lessonLevel": "Beginner",
+    "description": "A 4-week self-learning plan to start an Amazon FBA business from scratch.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Amazon FBA",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the Amazon FBA business model",
+                "Learn about product research and selection",
+                "Familiarize with Amazon seller account setup"
+            ],
+            "topicsToCover": [
+                "What is Amazon FBA?",
+                "Benefits of Amazon FBA",
+                "Product research techniques",
+                "Identifying profitable product opportunities",
+                "Amazon seller account registration"
+            ],
+            "weeklyTasks": [
+                "Complete Amazon seller account setup",
+                "Conduct initial product research",
+                "Shortlist 3-5 potential product ideas"
+            ],
+            "resources": [
+                "Amazon FBA Beginner's Guide",
+                "Product Research Strategies for Amazon FBA",
+                "Amazon Seller Central Documentation"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Sourcing and Supplier Selection",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Learn how to find reliable suppliers",
+                "Understand the process of negotiating with suppliers",
+                "Familiarize with product listing creation"
+            ],
+            "topicsToCover": [
+                "Identifying and evaluating suppliers",
+                "Negotiating with suppliers",
+                "Product photography and listing creation",
+                "Amazon product listing optimization"
+            ],
+            "weeklyTasks": [
+                "Reach out to potential suppliers",
+                "Negotiate pricing and minimum order quantities",
+                "Create product listings on Amazon"
+            ],
+            "resources": [
+                "Supplier Sourcing for Amazon FBA",
+                "Negotiation Strategies for Amazon FBA",
+                "Amazon Product Listing Optimization Guide"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Inventory Management and Shipping",
+            "studyHours": "8 hours",
+            "learningObjectives": [
+                "Understand Amazon's inventory management system",
+                "Learn about shipping and logistics for Amazon FBA",
+                "Familiarize with Amazon advertising and marketing"
+            ],
+            "topicsToCover": [
+                "Amazon FBA inventory management",
+                "Shipping and logistics for Amazon FBA",
+                "Amazon advertising and marketing strategies"
+            ],
+            "weeklyTasks": [
+                "Set up inventory management in Amazon Seller Central",
+                "Arrange for product shipment to Amazon fulfillment centers",
+                "Develop an Amazon advertising and marketing plan"
+            ],
+            "resources": [
+                "Amazon FBA Inventory Management Best Practices",
+                "Shipping and Logistics for Amazon FBA Sellers",
+                "Amazon Advertising and Marketing Strategies"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Scaling and Optimization",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Learn strategies for scaling an Amazon FBA business",
+                "Understand Amazon seller performance metrics",
+                "Familiarize with Amazon seller tools and resources"
+            ],
+            "topicsToCover": [
+                "Scaling an Amazon FBA business",
+                "Analyzing and improving seller performance",
+                "Amazon seller tools and resources"
+            ],
+            "weeklyTasks": [
+                "Develop a plan for scaling your Amazon FBA business",
+                "Review and optimize your seller performance metrics",
+                "Explore and utilize Amazon seller tools and resources"
+            ],
+            "resources": [
+                "Strategies for Scaling an Amazon FBA Business",
+                "Amazon Seller Performance Metrics and Optimization",
+                "Top Amazon Seller Tools and Resources"
+            ]
+        }
+    ]
+}

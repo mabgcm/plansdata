@@ -1,0 +1,96 @@
+{
+    "id": "emailmarketing",
+    "title": "Email Marketing Fundamentals",
+    "lessonLevel": "Beginner",
+    "description": "This self-learning plan covers the essential concepts and best practices of email marketing for beginners.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Email Marketing",
+            "studyHours": "4-6 hours",
+            "learningObjectives": [
+                "Understand the role and importance of email marketing in a digital marketing strategy",
+                "Learn the key components of an email marketing campaign"
+            ],
+            "topicsToCover": [
+                "What is email marketing?",
+                "Benefits of email marketing",
+                "Types of email campaigns (promotional, transactional, newsletters, etc.)"
+            ],
+            "weeklyTasks": [
+                "Research and compare popular email marketing platforms",
+                "Create a basic email marketing strategy for a small business"
+            ],
+            "resources": [
+                "Email Marketing 101: A Beginner's Guide [1]",
+                "The Anatomy of a Successful Email Campaign [2]"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Building an Email List",
+            "studyHours": "4-6 hours",
+            "learningObjectives": [
+                "Understand the importance of building a targeted email list",
+                "Learn effective techniques for list building and lead generation"
+            ],
+            "topicsToCover": [
+                "Email list segmentation and targeting",
+                "Lead capture tactics (opt-in forms, lead magnets, etc.)",
+                "Email list hygiene and maintenance"
+            ],
+            "weeklyTasks": [
+                "Create a lead magnet and opt-in form for a website",
+                "Develop a plan for growing an email list organically"
+            ],
+            "resources": [
+                "10 Proven Tactics to Grow Your Email List [3]",
+                "Email List Segmentation: The Key to Personalized Email Marketing [4]"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Crafting Effective Email Content",
+            "studyHours": "4-6 hours",
+            "learningObjectives": [
+                "Learn best practices for writing engaging email copy",
+                "Understand the importance of email design and layout"
+            ],
+            "topicsToCover": [
+                "Email subject line optimization",
+                "Email body content structure and formatting",
+                "Incorporating visuals and multimedia"
+            ],
+            "weeklyTasks": [
+                "Write and design a sample promotional email campaign",
+                "Analyze and critique email newsletters from industry leaders"
+            ],
+            "resources": [
+                "7 Tips for Writing Irresistible Email Copy [5]",
+                "The Anatomy of a High-Performing Email [6]"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Email Marketing Automation and Optimization",
+            "studyHours": "4-6 hours",
+            "learningObjectives": [
+                "Understand the role of email automation in a marketing strategy",
+                "Learn techniques for optimizing email campaigns for better performance"
+            ],
+            "topicsToCover": [
+                "Email automation workflows and triggers",
+                "A/B testing and email performance analysis",
+                "Measuring email marketing ROI"
+            ],
+            "weeklyTasks": [
+                "Create a simple email automation workflow",
+                "Develop a plan for testing and optimizing email campaigns"
+            ],
+            "resources": [
+                "The Beginner's Guide to Email Automation [7]",
+                "Email Marketing Metrics: What to Track and How to Improve [8]"
+            ]
+        }
+    ]
+}

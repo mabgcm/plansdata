@@ -1,0 +1,128 @@
+{
+    "id": "shopify",
+    "title": "4-Week Self-Learning Plan for Dropshipping with Shopify",
+    "lessonLevel": "Beginner",
+    "description": "This 4-week self-learning plan is designed to guide you through the fundamentals of starting a successful dropshipping business on the Shopify platform. Each week has a specific learning objective, topics to cover, and tasks to reinforce your understanding.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Understanding Dropshipping and Shopify",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the dropshipping business model",
+                "Familiarize yourself with the Shopify platform and its features"
+            ],
+            "topicsToCover": [
+                "What is dropshipping and how does it work?",
+                "Benefits and challenges of the dropshipping model",
+                "Introduction to Shopify: features, pricing plans, and setup"
+            ],
+            "weeklyTasks": [
+                "Research and compare different dropshipping business models",
+                "Sign up for a Shopify account and explore the platform's features",
+                "Watch the \"Dropshipping 101: Build your first online store\" course on Shopify Academy"
+            ],
+            "resources": [
+                {
+                    "title": "Shopify's Ultimate Guide to Dropshipping (2024)"
+                },
+                {
+                    "title": "How to Start Dropshipping: A 9 Step Guide (2024)"
+                },
+                {
+                    "title": "Shopify Academy's Dropshipping 101 Course"
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Finding Profitable Products and Suppliers",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Identify profitable dropshipping product niches",
+                "Locate reliable dropshipping suppliers"
+            ],
+            "topicsToCover": [
+                "Researching and evaluating potential product niches",
+                "Sourcing products and suppliers, including AliExpress and print-on-demand",
+                "Evaluating supplier reliability and product quality"
+            ],
+            "weeklyTasks": [
+                "Brainstorm and evaluate 20 potential product ideas",
+                "Research and select 5 products to potentially sell",
+                "Identify and vet 2-3 reliable dropshipping suppliers for your chosen products"
+            ],
+            "resources": [
+                {
+                    "title": "Gelato's Guide to Shopify Dropshipping (2024)"
+                },
+                {
+                    "title": "Shopify's How to Source Products to Sell Online"
+                },
+                {
+                    "title": "Shopify's Dropshipping Supplier Directory"
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Building Your Shopify Store",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Create a professional-looking Shopify store",
+                "Optimize your store for conversions"
+            ],
+            "topicsToCover": [
+                "Choosing a Shopify theme and customizing your store",
+                "Creating product pages, collections, and homepage",
+                "Setting up store policies, shipping, and payment options"
+            ],
+            "weeklyTasks": [
+                "Set up your Shopify store with a chosen theme",
+                "Customize your store's branding and design",
+                "Create product pages for your selected items"
+            ],
+            "resources": [
+                {
+                    "title": "Shopify's How to Start a Shopify Store: A Step-by-Step Guide"
+                },
+                {
+                    "title": "Shopify Academy's Dropshipping 101 Course"
+                },
+                {
+                    "title": "Shopify's Ecommerce Website Builder"
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Marketing and Launching Your Dropshipping Store",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Develop a marketing strategy to drive traffic and sales",
+                "Launch and optimize your dropshipping store"
+            ],
+            "topicsToCover": [
+                "Introduction to Facebook advertising for dropshipping",
+                "Audience research, ad creation, and campaign optimization",
+                "Store launch, order fulfillment, and customer service"
+            ],
+            "weeklyTasks": [
+                "Create a Facebook business page and ads account",
+                "Set up your first Facebook ad campaign to drive traffic",
+                "Launch your Shopify store and fulfill your first orders"
+            ],
+            "resources": [
+                {
+                    "title": "The Only Shopify Dropshipping Course You Will Ever Need (YouTube)"
+                },
+                {
+                    "title": "Shopify Academy's Dropshipping 101 Course"
+                },
+                {
+                    "title": "Shopify's Guide to Dropshipping (2024)"
+                }
+            ]
+        }
+    ]
+}

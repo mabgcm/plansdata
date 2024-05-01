@@ -1,0 +1,110 @@
+{
+    "id": "digitalmarketing",
+    "title": "Digital Marketing Self-Learning Plan",
+    "lessonLevel": "Beginner",
+    "description": "A self-learning plan to gain foundational knowledge and skills in digital marketing.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Digital Marketing",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the key components of digital marketing",
+                "Learn about different digital marketing channels and their applications",
+                "Gain an overview of the digital marketing landscape and industry trends"
+            ],
+            "topicsToCover": [
+                "What is digital marketing?",
+                "Digital marketing channels (e.g., search engine marketing, social media marketing, email marketing, content marketing)",
+                "The role of digital marketing in modern business strategies"
+            ],
+            "weeklyTasks": [
+                "Complete online courses or tutorials on digital marketing fundamentals",
+                "Research and analyze current digital marketing trends and best practices"
+            ],
+            "resources": [
+                "Digital Marketing Fundamentals course on Coursera",
+                "The Beginner's Guide to Digital Marketing by Moz",
+                "Digital Marketing Institute blog"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Search Engine Optimization (SEO)",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Understand the principles of search engine optimization",
+                "Learn how to conduct keyword research and optimize website content",
+                "Gain knowledge on technical SEO and off-page optimization techniques"
+            ],
+            "topicsToCover": [
+                "Keyword research and analysis",
+                "On-page SEO (e.g., title tags, meta descriptions, content optimization)",
+                "Technical SEO (e.g., site structure, page speed, mobile optimization)",
+                "Off-page SEO (e.g., link building, content promotion)"
+            ],
+            "weeklyTasks": [
+                "Conduct keyword research for a sample website",
+                "Optimize a web page for search engine visibility",
+                "Analyze a website's technical SEO and identify areas for improvement"
+            ],
+            "resources": [
+                "Beginner's Guide to SEO by Moz",
+                "Google Search Console Help",
+                "SEO for Beginners course on Udemy"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Social Media Marketing",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the role of social media in digital marketing",
+                "Learn how to develop and implement a social media marketing strategy",
+                "Gain knowledge on creating engaging social media content and managing social media platforms"
+            ],
+            "topicsToCover": [
+                "Social media platforms and their unique features",
+                "Social media marketing strategy development",
+                "Content creation and curation for social media",
+                "Social media analytics and performance tracking"
+            ],
+            "weeklyTasks": [
+                "Create a social media marketing plan for a sample business",
+                "Develop a content calendar and create sample social media posts",
+                "Analyze the performance of a social media campaign using analytics tools"
+            ],
+            "resources": [
+                "The Beginner's Guide to Social Media Marketing by Hootsuite",
+                "Social Media Marketing course on Coursera",
+                "Social Media Examiner blog"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Email Marketing and Content Marketing",
+            "studyHours": "8-10 hours",
+            "learningObjectives": [
+                "Understand the principles of effective email marketing",
+                "Learn how to create and distribute valuable content to attract and engage customers",
+                "Gain knowledge on measuring the success of email and content marketing campaigns"
+            ],
+            "topicsToCover": [
+                "Email marketing strategy and best practices",
+                "Email list building and segmentation",
+                "Content marketing strategy and content creation",
+                "Measuring email and content marketing performance"
+            ],
+            "weeklyTasks": [
+                "Develop an email marketing campaign for a sample business",
+                "Create a content marketing plan and produce a sample piece of content",
+                "Analyze the performance of an email or content marketing campaign using relevant metrics"
+            ],
+            "resources": [
+                "Email Marketing Fundamentals course on Udemy",
+                "Content Marketing Institute blog",
+                "HubSpot Academy Content Marketing Certification"
+            ]
+        }
+    ]
+}

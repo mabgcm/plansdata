@@ -1,0 +1,107 @@
+{
+    "id": "wordpress",
+    "title": "Self-Learning Plan for WordPress",
+    "lessonLevel": "Beginner",
+    "description": "This self-learning plan will guide you through the fundamentals of WordPress, from installation to content management and customization.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to WordPress",
+            "studyHours": "8 hours",
+            "learningObjectives": [
+                "Understand the basics of WordPress and its features",
+                "Learn how to install WordPress on a web server or hosting platform",
+                "Familiarize with the WordPress dashboard and admin interface"
+            ],
+            "topicsToCover": [
+                "What is WordPress and its history",
+                "WordPress.com vs. WordPress.org",
+                "Installing WordPress on a web server or hosting platform",
+                "Exploring the WordPress dashboard and admin interface"
+            ],
+            "weeklyTasks": [
+                "Complete the WordPress installation process",
+                "Explore the WordPress dashboard and become familiar with the admin interface",
+                "Create a basic WordPress website with a default theme"
+            ],
+            "resources": [
+                "WordPress Codex: https://codex.wordpress.org/",
+                "WordPress Beginner's Guide: https://www.wpbeginner.com/beginners-guide/"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Content Management in WordPress",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the difference between posts and pages in WordPress",
+                "Learn how to create, edit, and manage content using the WordPress editor",
+                "Explore the use of categories, tags, and custom taxonomies for organizing content"
+            ],
+            "topicsToCover": [
+                "Posts vs. Pages in WordPress",
+                "Using the WordPress editor for content creation and formatting",
+                "Organizing content with categories, tags, and custom taxonomies"
+            ],
+            "weeklyTasks": [
+                "Create and publish several blog posts and pages",
+                "Experiment with different formatting options in the WordPress editor",
+                "Organize content using categories, tags, and custom taxonomies"
+            ],
+            "resources": [
+                "WordPress Content Management: https://wordpress.org/support/article/content-management/",
+                "WordPress Taxonomy Guide: https://wordpress.org/support/article/taxonomies/"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Customizing the WordPress Theme",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the concept of WordPress themes and their role in website design",
+                "Learn how to install, activate, and customize a WordPress theme",
+                "Explore the use of widgets, menus, and other theme-specific features"
+            ],
+            "topicsToCover": [
+                "Understanding WordPress themes and their structure",
+                "Installing and activating a WordPress theme",
+                "Customizing a WordPress theme using the Customizer and theme-specific options",
+                "Working with widgets, menus, and other theme-specific features"
+            ],
+            "weeklyTasks": [
+                "Install and activate a new WordPress theme",
+                "Customize the theme using the Customizer and theme-specific options",
+                "Experiment with widgets, menus, and other theme-specific features"
+            ],
+            "resources": [
+                "WordPress Theme Handbook: https://developer.wordpress.org/themes/",
+                "WordPress Customizer Guide: https://wordpress.org/support/article/wordpress-customizer/"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "WordPress Plugins and Enhancements",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the purpose and benefits of WordPress plugins",
+                "Learn how to find, install, and activate WordPress plugins",
+                "Explore popular plugins for enhancing WordPress functionality"
+            ],
+            "topicsToCover": [
+                "What are WordPress plugins and their purpose",
+                "Finding and installing WordPress plugins",
+                "Activating and configuring WordPress plugins",
+                "Exploring popular plugins for SEO, security, e-commerce, and more"
+            ],
+            "weeklyTasks": [
+                "Research and identify WordPress plugins that can enhance your website",
+                "Install and activate relevant plugins for your website needs",
+                "Configure and customize the installed plugins to fit your requirements"
+            ],
+            "resources": [
+                "WordPress Plugin Directory: https://wordpress.org/plugins/",
+                "WordPress Plugin Handbook: https://developer.wordpress.org/plugins/"
+            ]
+        }
+    ]
+}

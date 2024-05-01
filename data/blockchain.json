@@ -1,0 +1,111 @@
+{
+    "id": "blockchain",
+    "title": "Blockchain Self-Learning Plan",
+    "lessonLevel": "Beginner",
+    "description": "A self-learning plan to gain a fundamental understanding of blockchain technology.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Blockchain",
+            "studyHours": "8 hours",
+            "learningObjectives": [
+                "Understand the basic principles and concepts of blockchain technology",
+                "Learn about the history and evolution of blockchain",
+                "Explore the key components of a blockchain network"
+            ],
+            "topicsToCover": [
+                "What is blockchain?",
+                "How does blockchain work?",
+                "Decentralization and distributed ledger technology",
+                "Cryptocurrencies and Bitcoin"
+            ],
+            "weeklyTasks": [
+                "Read introductory articles and watch videos on blockchain technology",
+                "Understand the difference between centralized and decentralized systems",
+                "Explore the basic structure and components of a blockchain network"
+            ],
+            "resources": [
+                "Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher",
+                "Blockchain Revolution by Don Tapscott and Alex Tapscott",
+                "Blockchain: The Insights You Need from Harvard Business Review"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Blockchain Consensus Mechanisms",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Understand the different consensus mechanisms used in blockchain networks",
+                "Learn about the advantages and disadvantages of various consensus algorithms",
+                "Explore the role of consensus in maintaining the integrity of a blockchain"
+            ],
+            "topicsToCover": [
+                "Proof of Work (PoW)",
+                "Proof of Stake (PoS)",
+                "Delegated Proof of Stake (DPoS)",
+                "Byzantine Fault Tolerance (BFT)"
+            ],
+            "weeklyTasks": [
+                "Analyze the working principles of different consensus mechanisms",
+                "Understand the trade-offs between security, scalability, and decentralization",
+                "Evaluate the suitability of consensus algorithms for different blockchain use cases"
+            ],
+            "resources": [
+                "Mastering Blockchain by Imran Bashir",
+                "Consensus Mechanisms for Blockchain Technology by Vitalik Buterin",
+                "Blockchain Consensus Mechanisms: A Primer by Binance Academy"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Smart Contracts and Decentralized Applications",
+            "studyHours": "12 hours",
+            "learningObjectives": [
+                "Understand the concept of smart contracts and their role in blockchain",
+                "Learn how to develop and deploy simple smart contracts",
+                "Explore the potential use cases of decentralized applications (dApps)"
+            ],
+            "topicsToCover": [
+                "Smart contract fundamentals",
+                "Programming languages for smart contracts (e.g., Solidity, Vyper)",
+                "Decentralized applications (dApps) and their architecture",
+                "Ethereum and other smart contract-enabled blockchain platforms"
+            ],
+            "weeklyTasks": [
+                "Familiarize yourself with a smart contract programming language",
+                "Develop and deploy a simple smart contract on a test network",
+                "Explore existing dApps and analyze their features and use cases"
+            ],
+            "resources": [
+                "Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood",
+                "Solidity Documentation",
+                "Building Decentralized Applications with Ethereum and Solidity by Packt Publishing"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Blockchain Applications and Future Trends",
+            "studyHours": "10 hours",
+            "learningObjectives": [
+                "Explore the various real-world applications of blockchain technology",
+                "Understand the challenges and limitations of blockchain adoption",
+                "Gain insights into the future developments and trends in the blockchain ecosystem"
+            ],
+            "topicsToCover": [
+                "Blockchain use cases in finance, supply chain, healthcare, and other industries",
+                "Scalability, privacy, and regulatory issues in blockchain",
+                "Emerging trends: decentralized finance (DeFi), non-fungible tokens (NFTs), and Web3"
+            ],
+            "weeklyTasks": [
+                "Research and analyze blockchain use cases in different industries",
+                "Discuss the challenges and barriers to widespread blockchain adoption",
+                "Explore the potential future developments and innovations in the blockchain space"
+            ],
+            "resources": [
+                "The Business Blockchain by William Mougayar",
+                "Blockchain: Blueprint for a New Economy by Melanie Swan",
+                "Blockchain Enabled Applications by Vikram Dhillon, David Metcalf, and Max Hooper"
+            ]
+        }
+    ]
+}

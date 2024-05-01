@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Cryptocurrency for Beginners",
+        "description": "This cryptocurrency trading curriculum covers fundamental concepts, strategies, risk management, and practical tools to help beginners trade cryptocurrencies effectively.",
+        "duration": "6 weeks",
+        "hoursPerWeek": "3-5",
+        "data": "/crypto.json",
+        "image": "crypto.jpg"
+    },
+    {
+        "title": "Intermediate Cryptocurrency",
+        "description": "This comprehensive cryptocurrency curriculum covers advanced trading strategies, portfolio management, and market analysis to help learners become more skilled and profitable traders.",
+        "duration": "8 weeks",
+        "hoursPerWeek": "4-6",
+        "data": "/cryptointermediate.json",
+        "image": "cryptointermediate.jpg"
+    },
+    {
+        "title": "SEO Fundamentals",
+        "description": "This curriculum is designed to introduce beginners to the fundamentals of Search Engine Optimization (SEO). It covers key concepts, strategies, and practical techniques to help learners improve the visibility and ranking of their websites on search engine results pages.",
+        "duration": "6 weeks",
+        "hoursPerWeek": "3-5",
+        "data": "/seo.json",
+        "image": "seo.jpg"
+    }
+]

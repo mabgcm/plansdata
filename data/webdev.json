@@ -1,0 +1,108 @@
+{
+    "id": "webdev",
+    "title": "Web Development Self-Learning Plan",
+    "lessonLevel": "Beginner",
+    "description": "A 4-week self-learning plan to gain foundational web development skills.",
+    "weeks": [
+        {
+            "week": 1,
+            "title": "Introduction to Web Development",
+            "studyHours": "10-12 hours",
+            "learningObjectives": [
+                "Understand the basics of HTML, CSS, and JavaScript",
+                "Learn how to set up a development environment",
+                "Create a simple web page using HTML and CSS"
+            ],
+            "topicsToCover": [
+                "HTML structure and syntax",
+                "CSS selectors and properties",
+                "JavaScript variables, data types, and functions"
+            ],
+            "weeklyTasks": [
+                "Complete online tutorials on HTML, CSS, and JavaScript",
+                "Build a simple web page with a header, body, and footer"
+            ],
+            "resources": [
+                "https://www.w3schools.com/",
+                "https://developer.mozilla.org/en-US/docs/Web/HTML",
+                "https://developer.mozilla.org/en-US/docs/Web/CSS",
+                "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Responsive Web Design",
+            "studyHours": "12-14 hours",
+            "learningObjectives": [
+                "Understand the principles of responsive web design",
+                "Learn how to use CSS media queries and flexbox",
+                "Create a responsive web page that adapts to different screen sizes"
+            ],
+            "topicsToCover": [
+                "CSS media queries",
+                "Flexbox layout",
+                "Mobile-first design approach"
+            ],
+            "weeklyTasks": [
+                "Complete online tutorials on responsive web design",
+                "Modify the web page from Week 1 to be responsive"
+            ],
+            "resources": [
+                "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
+                "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries",
+                "https://www.w3schools.com/css/css_rwd_intro.asp"
+            ]
+        },
+        {
+            "week": 3,
+            "title": "JavaScript Fundamentals",
+            "studyHours": "14-16 hours",
+            "learningObjectives": [
+                "Understand the core concepts of JavaScript",
+                "Learn how to manipulate the DOM using JavaScript",
+                "Implement basic interactivity on web pages"
+            ],
+            "topicsToCover": [
+                "JavaScript syntax and control flow",
+                "DOM manipulation with JavaScript",
+                "Event handling and user interactions"
+            ],
+            "weeklyTasks": [
+                "Complete online tutorials on JavaScript fundamentals",
+                "Add interactivity to the responsive web page from Week 2"
+            ],
+            "resources": [
+                "https://www.codecademy.com/learn/introduction-to-javascript",
+                "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
+                "https://www.w3schools.com/js/js_events.asp"
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Putting It All Together",
+            "studyHours": "16-18 hours",
+            "learningObjectives": [
+                "Integrate HTML, CSS, and JavaScript to build a complete web application",
+                "Understand the basics of web development frameworks and libraries",
+                "Deploy the web application to a hosting platform"
+            ],
+            "topicsToCover": [
+                "Web development frameworks (e.g., React, Angular, Vue.js)",
+                "Hosting and deployment options",
+                "Best practices for web development"
+            ],
+            "weeklyTasks": [
+                "Build a small web application using a framework or library",
+                "Deploy the web application to a hosting platform",
+                "Reflect on the learning process and plan for future growth"
+            ],
+            "resources": [
+                "https://reactjs.org/",
+                "https://angular.io/",
+                "https://vuejs.org/",
+                "https://www.netlify.com/",
+                "https://pages.github.com/"
+            ]
+        }
+    ]
+}
