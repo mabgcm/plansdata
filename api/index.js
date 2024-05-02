@@ -1,8 +1,10 @@
 const express = require("express");
 const fs = require("fs/promises");
 const path = require("path");
-
+const cors = require("cors");
 const app = express();
+
+app.use(cors());
 
 app.get("/learning-plans", async (req, res) => {
     try {
