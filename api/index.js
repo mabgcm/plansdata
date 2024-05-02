@@ -25,4 +25,4 @@ app.get("/learning-plan/:id", async (req, res) => {
     }
 });
 
-app.listen(3000, () => console.log("API Server is running..."));
+app.listen(3000, () => console.log("API Server is running!..."));
