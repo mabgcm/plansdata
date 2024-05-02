@@ -10,10 +10,6 @@
         {
             "src": "/learning-plans",
             "dest": "/api/index.js"
-        },
-        {
-            "src": "/learning-plan/(.+)",
-            "dest": "/api/index.js"
         }
     ]
 }
