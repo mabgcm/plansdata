@@ -1,5 +1,6 @@
 [
     {
+        "id": "seo",
         "title": "SEO Fundamentals",
         "description": "This curriculum is designed to introduce beginners to the fundamentals of Search Engine Optimization (SEO). It covers key concepts, strategies, and practical techniques to help learners improve the visibility and ranking of their websites on search engine results pages.",
         "duration": "6 weeks",
@@ -7,6 +8,7 @@
         "image": "seo.jpg"
     },
     {
+        "id": "amazonfba",
         "title": "Amazon FBA",
         "description": "This comprehensive course covers the fundamentals of Amazon FBA (Fulfillment by Amazon), including product research, sourcing, listing optimization, and inventory management to help you build a successful Amazon business.",
         "duration": "4 weeks",
@@ -14,6 +16,7 @@
         "image": "amazonfba.jpg"
     },
     {
+        "id": "amazonfbm",
         "title": "Amazon FBM",
         "description": "This course focuses on Amazon FBM (Fulfillment by Merchant), teaching you how to sell on Amazon while handling the fulfillment and logistics yourself. Learn strategies for product selection, pricing, and customer service to thrive on the Amazon marketplace.",
         "duration": "4 weeks",
@@ -21,6 +24,7 @@
         "image": "amazonfbm.jpg"
     },
     {
+        "id": "blockchain",
         "title": "Blockchain Fundamentals",
         "description": "Dive into the world of blockchain technology with this comprehensive course. Learn about the core principles, applications, and potential of blockchain, including cryptocurrencies, smart contracts, and decentralized finance (DeFi).",
         "duration": "4 weeks",
@@ -28,6 +32,7 @@
         "image": "blockchain.jpg"
     },
     {
+        "id": "copywriting",
         "title": "Copywriting Mastery",
         "description": "Elevate your writing skills and learn the art of persuasive copywriting. This course covers techniques for crafting compelling headlines, sales copy, email marketing, and content that drives conversions.",
         "duration": "4 weeks",
@@ -35,6 +40,7 @@
         "image": "copywriting.jpg"
     },
     {
+        "id": "crypto",
         "title": "Crypto Trading Strategies",
         "description": "Explore advanced cryptocurrency trading strategies and techniques to maximize your profits. Learn about technical analysis, portfolio management, risk mitigation, and trading psychology to become a more successful crypto trader.",
         "duration": "4 weeks",
@@ -42,6 +48,7 @@
         "image": "cryptotrading.jpg"
     },
     {
+        "id": "cybersecurity",
         "title": "Cybersecurity Fundamentals",
         "description": "Gain a solid understanding of cybersecurity principles and practices. This course covers network security, threat detection, incident response, and ethical hacking to help you protect your digital assets.",
         "duration": "4 weeks",
@@ -49,6 +56,8 @@
         "image": "cybersecurity.jpg"
     },
     {
+        
+        "id": "digitalmarketing",
         "title": "Digital Marketing Essentials",
         "description": "Dive into the world of digital marketing and learn strategies for search engine optimization (SEO), social media marketing, email marketing, and content creation to grow your online presence and attract more customers.",
         "duration": "4 weeks",
@@ -56,6 +65,7 @@
         "image": "digitalmarketing.jpg"
     },
     {
+        "id": "emailmarketing",
         "title": "Email Marketing Mastery",
         "description": "Discover the power of email marketing and learn how to build an effective email list, craft compelling email campaigns, and automate your marketing efforts to drive more sales and engagement.",
         "duration": "4 weeks",
@@ -63,6 +73,7 @@
         "image": "emailmarketing.jpg"
     },
     {
+        "id": "shopify",
         "title": "Shopify for Ecommerce",
         "description": "Learn how to build and manage a successful online store using the Shopify platform. This course covers store setup, product management, marketing strategies, and optimization techniques to grow your ecommerce business.",
         "duration": "4 weeks",
@@ -70,6 +81,7 @@
         "image": "shopify.jpg"
     },
     {
+        "id": "socialmedia",
         "title": "Social Media Marketing",
         "description": "Unlock the power of social media to grow your business. This course teaches you how to create a winning social media strategy, leverage different platforms, and use content, advertising, and influencer marketing to reach your target audience.",
         "duration": "4 weeks",
@@ -77,6 +89,7 @@
         "image": "socialmedia.jpg"
     },
     {
+        "id": "virtualassistance",
         "title": "Virtual Assistance",
         "description": "Become a highly skilled virtual assistant and learn how to provide administrative, customer service, and specialized support to clients remotely. Develop the necessary skills, tools, and strategies to build a successful virtual assistant business.",
         "duration": "4 weeks",
@@ -84,6 +97,7 @@
         "image": "virtualassistance.jpg"
     },
     {
+        "id": "webdev",
         "title": "Web Development Fundamentals",
         "description": "Dive into the world of web development and learn the essential skills to build modern, responsive websites. This course covers HTML, CSS, JavaScript, and popular frameworks and libraries to kickstart your web development journey.",
         "duration": "4 weeks",
@@ -91,6 +105,7 @@
         "image": "webdev.jpg"
     },
     {
+        "id": "wordpress",
         "title": "WordPress for Beginners",
         "description": "Explore the power of WordPress and learn how to create and manage professional-looking websites. This course covers WordPress installation, theme customization, plugin integration, and content management to help you build your online presence.",
         "duration": "4 weeks",
