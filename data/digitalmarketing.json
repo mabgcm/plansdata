@@ -23,9 +23,18 @@
                 "Research and analyze current digital marketing trends and best practices"
             ],
             "resources": [
-                "Digital Marketing Fundamentals course on Coursera",
-                "The Beginner's Guide to Digital Marketing by Moz",
-                "Digital Marketing Institute blog"
+                {
+                    "name": "Digital Marketing Fundamentals course on Coursera",
+                    "link": ""
+                },
+                {
+                    "name": "The Beginner's Guide to Digital Marketing by Moz",
+                    "link": ""
+                },
+                {
+                    "name": "Digital Marketing Institute blog",
+                    "link": ""
+                }
             ]
         },
         {
@@ -49,9 +58,18 @@
                 "Analyze a website's technical SEO and identify areas for improvement"
             ],
             "resources": [
-                "Beginner's Guide to SEO by Moz",
-                "Google Search Console Help",
-                "SEO for Beginners course on Udemy"
+                {
+                    "name": "Beginner's Guide to SEO by Moz",
+                    "link": ""
+                },
+                {
+                    "name": "Google Search Console Help",
+                    "link": ""
+                },
+                {
+                    "name": "SEO for Beginners course on Udemy",
+                    "link": ""
+                }
             ]
         },
         {
@@ -75,9 +93,18 @@
                 "Analyze the performance of a social media campaign using analytics tools"
             ],
             "resources": [
-                "The Beginner's Guide to Social Media Marketing by Hootsuite",
-                "Social Media Marketing course on Coursera",
-                "Social Media Examiner blog"
+                {
+                    "name": "The Beginner's Guide to Social Media Marketing by Hootsuite",
+                    "link": ""
+                },
+                {
+                    "name": "Social Media Marketing course on Coursera",
+                    "link": ""
+                },
+                {
+                    "name": "Social Media Examiner blog",
+                    "link": ""
+                }
             ]
         },
         {
@@ -101,9 +128,18 @@
                 "Analyze the performance of an email or content marketing campaign using relevant metrics"
             ],
             "resources": [
-                "Email Marketing Fundamentals course on Udemy",
-                "Content Marketing Institute blog",
-                "HubSpot Academy Content Marketing Certification"
+                {
+                    "name": "Email Marketing Fundamentals course on Udemy",
+                    "link": ""
+                },
+                {
+                    "name": "Content Marketing Institute blog",
+                    "link": ""
+                },
+                {
+                    "name": "HubSpot Academy Content Marketing Certification",
+                    "link": ""
+                }
             ]
         }
     ]

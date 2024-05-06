@@ -1,107 +1,144 @@
 {
     "id": "cybersecurity",
-    "title": "Self-Learning Plan for Cybersecurity",
+    "title": "Cybersecurity Fundamentals",
     "lessonLevel": "Beginner",
-    "description": "This self-learning plan is designed to help beginners develop a foundational understanding of cybersecurity concepts and skills.",
+    "description": "This self-learning plan provides a comprehensive introduction to cybersecurity, covering essential concepts, tools, and practices to protect digital assets and information from cyber threats.",
     "weeks": [
         {
             "week": 1,
-            "title": "Introduction to Cybersecurity",
-            "studyHours": "10 hours",
+            "title": "Understanding Cybersecurity",
+            "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Understand the importance of cybersecurity in the digital age",
-                "Identify common cyber threats and attack vectors",
-                "Learn about the basic principles of information security"
+                "Grasp the basic concepts and importance of cybersecurity",
+                "Learn about common cyber threats and attack vectors",
+                "Familiarize with the principles of data protection and privacy"
             ],
             "topicsToCover": [
-                "Cybersecurity fundamentals",
-                "Cyber threats and vulnerabilities",
-                "Information security principles (confidentiality, integrity, availability"
+                "Introduction to cybersecurity",
+                "Types of cyber threats (malware, phishing, ransomware, etc.)",
+                "Data protection and privacy laws"
             ],
             "weeklyTasks": [
-                "Complete online cybersecurity courses or tutorials",
-                "Read industry publications and news articles on cybersecurity",
-                "Participate in online cybersecurity forums or communities"
+                "Read introductory materials on cybersecurity concepts",
+                "Explore case studies of recent cyber attacks",
+                "Review global data protection and privacy regulations"
             ],
             "resources": [
-                "Cybersecurity Fundamentals (Coursera)",
-                "Introduction to Information Security (edX)",
-                "Cybersecurity Basics (Udemy)"
+                {
+                    "name": "Cybersecurity Basics: A Hands-on Approach by Carlos Solari",
+                    "link": ""
+                },
+                {
+                    "name": "Online articles and videos on recent cyber attacks",
+                    "link": ""
+                },
+                {
+                    "name": "Overview of GDPR and other privacy laws",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 2,
-            "title": "Network Security Essentials",
-            "studyHours": "12 hours",
+            "title": "Cybersecurity Tools and Practices",
+            "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Understand the basics of network security protocols and technologies",
-                "Learn about common network security threats and mitigation strategies",
-                "Gain hands-on experience with network security tools and techniques"
+                "Understand the role of cybersecurity tools in threat mitigation",
+                "Learn about encryption, firewalls, and antivirus software",
+                "Explore best practices for secure internet browsing and email communication"
             ],
             "topicsToCover": [
-                "Network security protocols (e.g., SSL/TLS, IPsec, VPNs)",
-                "Firewall configuration and management",
-                "Intrusion detection and prevention systems (IDS/IPS)"
+                "Introduction to cybersecurity tools",
+                "Encryption and secure communication",
+                "Firewalls, antivirus, and anti-malware software",
+                "Secure browsing and email practices"
             ],
             "weeklyTasks": [
-                "Set up a virtual network environment and practice network security configurations",
-                "Analyze network traffic and identify potential security issues",
-                "Research and compare different network security tools and solutions"
+                "Install and configure basic cybersecurity tools (antivirus, firewall)",
+                "Practice encrypting files and emails",
+                "Adopt secure browsing and email habits"
             ],
             "resources": [
-                "Network Security Essentials (Udemy)",
-                "Practical Network Security (Pluralsight)",
-                "Network Security Fundamentals (LinkedIn Learning)"
+                {
+                    "name": "Guides on setting up and using cybersecurity tools",
+                    "link": ""
+                },
+                {
+                    "name": "Tutorials on encryption and secure communication",
+                    "link": ""
+                },
+                {
+                    "name": "Best practices for internet browsing and email security",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 3,
-            "title": "Secure Software Development",
-            "studyHours": "15 hours",
+            "title": "Network Security",
+            "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Understand the principles of secure software development",
-                "Learn about common software vulnerabilities and how to mitigate them",
-                "Gain experience with secure coding practices and tools"
+                "Learn the fundamentals of network security",
+                "Understand how to secure home and office networks",
+                "Explore the basics of Virtual Private Networks (VPNs) and their usage"
             ],
             "topicsToCover": [
-                "Secure Software Development Life Cycle (SDLC)",
-                "Input validation and sanitization",
-                "Secure coding practices (e.g., OWASP Top 10)"
+                "Network security concepts",
+                "Securing wireless networks",
+                "Introduction to VPNs and their importance"
             ],
             "weeklyTasks": [
-                "Complete a secure coding challenge or project",
-                "Review and analyze code for potential security vulnerabilities",
-                "Research and compare different secure coding tools and frameworks"
+                "Secure your home Wi-Fi network",
+                "Set up and use a VPN service",
+                "Analyze your network's security posture with basic tools"
             ],
             "resources": [
-                "Secure Coding in Java (Coursera)",
-                "Secure Coding Practices (Udemy)",
-                "OWASP Top 10 (OWASP Foundation)"
+                {
+                    "name": "Online courses and articles on network security",
+                    "link": ""
+                },
+                {
+                    "name": "Guides on securing wireless networks",
+                    "link": ""
+                },
+                {
+                    "name": "Comparative analysis of VPN services",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 4,
-            "title": "Cybersecurity Risk Management",
-            "studyHours": "12 hours",
+            "title": "Cybersecurity in Practice",
+            "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Understand the principles of cybersecurity risk management",
-                "Learn about risk assessment and mitigation strategies",
-                "Gain knowledge on incident response and business continuity planning"
+                "Apply cybersecurity knowledge to protect digital assets",
+                "Understand the basics of ethical hacking and penetration testing",
+                "Learn about careers and certifications in cybersecurity"
             ],
             "topicsToCover": [
-                "Cybersecurity risk assessment and management",
-                "Incident response planning and execution",
-                "Business continuity and disaster recovery"
+                "Applying cybersecurity measures",
+                "Introduction to ethical hacking",
+                "Cybersecurity careers and certifications"
             ],
             "weeklyTasks": [
-                "Conduct a risk assessment for a hypothetical organization",
-                "Develop an incident response plan for a cybersecurity incident",
-                "Research and compare different business continuity and disaster recovery solutions"
+                "Implement a personal cybersecurity plan",
+                "Explore basic ethical hacking techniques",
+                "Research cybersecurity career paths and certifications"
             ],
             "resources": [
-                "Cybersecurity Risk Management (Coursera)",
-                "Incident Response and Business Continuity (Udemy)",
-                "NIST Cybersecurity Framework (NIST)"
+                {
+                    "name": "Cybersecurity for Beginners by Raef Meeuwisse",
+                    "link": ""
+                },
+                {
+                    "name": "Introduction to Ethical Hacking courses",
+                    "link": ""
+                },
+                {
+                    "name": "Overview of cybersecurity certifications (e.g., CompTIA Security+, CEH)",
+                    "link": ""
+                }
             ]
         }
     ]

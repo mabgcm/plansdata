@@ -52,8 +52,14 @@
                 "Conduct a content audit and identify areas for improvement"
             ],
             "resources": [
-                "On-Page SEO: Anatomy of a Perfectly Optimized Page by Backlinko",
-                "The Beginner's Guide to SEO: On-Page Optimization by Moz"
+                {
+                    "name": "On-Page SEO: Anatomy of a Perfectly Optimized Page by Backlinko",
+                    "link": ""
+                },
+                {
+                    "name": "The Beginner's Guide to SEO: On-Page Optimization by Moz",
+                    "link": ""
+                }
             ]
         },
         {
@@ -76,8 +82,14 @@
                 "Optimize your social media profiles and content for SEO"
             ],
             "resources": [
-                "The Definitive Guide to Link Building by Backlinko",
-                "Off-Page SEO: The Beginner's Guide by Moz"
+                {
+                    "name": "The Definitive Guide to Link Building by Backlinko",
+                    "link": ""
+                },
+                {
+                    "name": "Off-Page SEO: The Beginner's Guide by Moz",
+                    "link": ""
+                }
             ]
         },
         {
@@ -101,8 +113,14 @@
                 "Implement necessary technical optimizations"
             ],
             "resources": [
-                "Technical SEO: The Definitive Guide by Backlinko",
-                "Google's Search Engine Optimization (SEO) Starter Guide"
+                {
+                    "name": "Technical SEO: The Definitive Guide by Backlinko",
+                    "link": ""
+                },
+                {
+                    "name": "Google's Search Engine Optimization (SEO) Starter Guide",
+                    "link": ""
+                }
             ]
         }
     ]

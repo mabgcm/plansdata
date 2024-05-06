@@ -23,10 +23,22 @@
                 "Build a simple web page with a header, body, and footer"
             ],
             "resources": [
-                "https://www.w3schools.com/",
-                "https://developer.mozilla.org/en-US/docs/Web/HTML",
-                "https://developer.mozilla.org/en-US/docs/Web/CSS",
-                "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                {
+                    "name": "W3Schools",
+                    "link": ""
+                },
+                {
+                    "name": "MDN Web Docs on HTML",
+                    "link": ""
+                },
+                {
+                    "name": "MDN Web Docs on CSS",
+                    "link": ""
+                },
+                {
+                    "name": "MDN Web Docs on JavaScript",
+                    "link": ""
+                }
             ]
         },
         {
@@ -48,9 +60,18 @@
                 "Modify the web page from Week 1 to be responsive"
             ],
             "resources": [
-                "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
-                "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries",
-                "https://www.w3schools.com/css/css_rwd_intro.asp"
+                {
+                    "name": "FreeCodeCamp on CSS Flexbox",
+                    "link": ""
+                },
+                {
+                    "name": "MDN Web Docs on Media Queries",
+                    "link": ""
+                },
+                {
+                    "name": "W3Schools on Responsive Web Design",
+                    "link": ""
+                }
             ]
         },
         {
@@ -72,9 +93,18 @@
                 "Add interactivity to the responsive web page from Week 2"
             ],
             "resources": [
-                "https://www.codecademy.com/learn/introduction-to-javascript",
-                "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
-                "https://www.w3schools.com/js/js_events.asp"
+                {
+                    "name": "Codecademy on JavaScript",
+                    "link": ""
+                },
+                {
+                    "name": "MDN Web Docs on the DOM",
+                    "link": ""
+                },
+                {
+                    "name": "W3Schools on JavaScript Events",
+                    "link": ""
+                }
             ]
         },
         {
@@ -97,11 +127,26 @@
                 "Reflect on the learning process and plan for future growth"
             ],
             "resources": [
-                "https://reactjs.org/",
-                "https://angular.io/",
-                "https://vuejs.org/",
-                "https://www.netlify.com/",
-                "https://pages.github.com/"
+                {
+                    "name": "React",
+                    "link": ""
+                },
+                {
+                    "name": "Angular",
+                    "link": ""
+                },
+                {
+                    "name": "Vue.js",
+                    "link": ""
+                },
+                {
+                    "name": "Netlify",
+                    "link": ""
+                },
+                {
+                    "name": "GitHub Pages",
+                    "link": ""
+                }
             ]
         }
     ]

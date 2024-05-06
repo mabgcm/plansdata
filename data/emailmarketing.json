@@ -22,8 +22,14 @@
                 "Create a basic email marketing strategy for a small business"
             ],
             "resources": [
-                "Email Marketing 101: A Beginner's Guide [1]",
-                "The Anatomy of a Successful Email Campaign [2]"
+                {
+                    "name": "Email Marketing 101: A Beginner's Guide",
+                    "link": ""
+                },
+                {
+                    "name": "The Anatomy of a Successful Email Campaign",
+                    "link": ""
+                }
             ]
         },
         {
@@ -44,8 +50,14 @@
                 "Develop a plan for growing an email list organically"
             ],
             "resources": [
-                "10 Proven Tactics to Grow Your Email List [3]",
-                "Email List Segmentation: The Key to Personalized Email Marketing [4]"
+                {
+                    "name": "10 Proven Tactics to Grow Your Email List",
+                    "link": ""
+                },
+                {
+                    "name": "Email List Segmentation: The Key to Personalized Email Marketing",
+                    "link": ""
+                }
             ]
         },
         {
@@ -66,8 +78,14 @@
                 "Analyze and critique email newsletters from industry leaders"
             ],
             "resources": [
-                "7 Tips for Writing Irresistible Email Copy [5]",
-                "The Anatomy of a High-Performing Email [6]"
+                {
+                    "name": "7 Tips for Writing Irresistible Email Copy",
+                    "link": ""
+                },
+                {
+                    "name": "The Anatomy of a High-Performing Email",
+                    "link": ""
+                }
             ]
         },
         {
@@ -88,8 +106,14 @@
                 "Develop a plan for testing and optimizing email campaigns"
             ],
             "resources": [
-                "The Beginner's Guide to Email Automation [7]",
-                "Email Marketing Metrics: What to Track and How to Improve [8]"
+                {
+                    "name": "The Beginner's Guide to Email Automation",
+                    "link": ""
+                },
+                {
+                    "name": "Email Marketing Metrics: What to Track and How to Improve",
+                    "link": ""
+                }
             ]
         }
     ]

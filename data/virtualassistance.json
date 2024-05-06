@@ -24,8 +24,14 @@
                 "Create a professional profile on a virtual assistant platform"
             ],
             "resources": [
-                "Virtual Assistant Handbook by Jane Doe",
-                "Online courses on Udemy or Coursera"
+                {
+                    "name": "Virtual Assistant Handbook by Jane Doe",
+                    "link": ""
+                },
+                {
+                    "name": "Online courses on Udemy or Coursera",
+                    "link": ""
+                }
             ]
         },
         {
@@ -48,9 +54,18 @@
                 "Create a daily schedule and task management system"
             ],
             "resources": [
-                "Online tutorials on communication skills",
-                "Webinars on virtual assistant productivity",
-                "Articles on time management for remote workers"
+                {
+                    "name": "Online tutorials on communication skills",
+                    "link": ""
+                },
+                {
+                    "name": "Webinars on virtual assistant productivity",
+                    "link": ""
+                },
+                {
+                    "name": "Articles on time management for remote workers",
+                    "link": ""
+                }
             ]
         },
         {
@@ -73,9 +88,18 @@
                 "Identify relevant industry certifications or training programs"
             ],
             "resources": [
-                "Virtual Assistant Portfolio Examples",
-                "Webinars on personal branding for virtual assistants",
-                "Online courses on virtual assistant professional development"
+                {
+                    "name": "Virtual Assistant Portfolio Examples",
+                    "link": ""
+                },
+                {
+                    "name": "Webinars on personal branding for virtual assistants",
+                    "link": ""
+                },
+                {
+                    "name": "Online courses on virtual assistant professional development",
+                    "link": ""
+                }
             ]
         },
         {
@@ -98,9 +122,18 @@
                 "Create a plan for ongoing client acquisition and retention"
             ],
             "resources": [
-                "Virtual Assistant Job Boards and Platforms",
-                "Articles on pricing and negotiating for virtual assistants",
-                "Podcasts on running a successful virtual assistant business"
+                {
+                    "name": "Virtual Assistant Job Boards and Platforms",
+                    "link": ""
+                },
+                {
+                    "name": "Articles on pricing and negotiating for virtual assistants",
+                    "link": ""
+                },
+                {
+                    "name": "Podcasts on running a successful virtual assistant business",
+                    "link": ""
+                }
             ]
         }
     ]

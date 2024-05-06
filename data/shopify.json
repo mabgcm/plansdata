@@ -24,13 +24,16 @@
             ],
             "resources": [
                 {
-                    "title": "Shopify's Ultimate Guide to Dropshipping (2024)"
+                    "name": "Shopify's Ultimate Guide to Dropshipping (2024)",
+                    "link": ""
                 },
                 {
-                    "title": "How to Start Dropshipping: A 9 Step Guide (2024)"
+                    "name": "How to Start Dropshipping: A 9 Step Guide (2024)",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify Academy's Dropshipping 101 Course"
+                    "name": "Shopify Academy's Dropshipping 101 Course",
+                    "link": ""
                 }
             ]
         },
@@ -54,13 +57,16 @@
             ],
             "resources": [
                 {
-                    "title": "Gelato's Guide to Shopify Dropshipping (2024)"
+                    "name": "Gelato's Guide to Shopify Dropshipping (2024)",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify's How to Source Products to Sell Online"
+                    "name": "Shopify's How to Source Products to Sell Online",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify's Dropshipping Supplier Directory"
+                    "name": "Shopify's Dropshipping Supplier Directory",
+                    "link": ""
                 }
             ]
         },
@@ -84,13 +90,16 @@
             ],
             "resources": [
                 {
-                    "title": "Shopify's How to Start a Shopify Store: A Step-by-Step Guide"
+                    "name": "Shopify's How to Start a Shopify Store: A Step-by-Step Guide",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify Academy's Dropshipping 101 Course"
+                    "name": "Shopify Academy's Dropshipping 101 Course",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify's Ecommerce Website Builder"
+                    "name": "Shopify's Ecommerce Website Builder",
+                    "link": ""
                 }
             ]
         },
@@ -114,13 +123,16 @@
             ],
             "resources": [
                 {
-                    "title": "The Only Shopify Dropshipping Course You Will Ever Need (YouTube)"
+                    "name": "The Only Shopify Dropshipping Course You Will Ever Need (YouTube)",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify Academy's Dropshipping 101 Course"
+                    "name": "Shopify Academy's Dropshipping 101 Course",
+                    "link": ""
                 },
                 {
-                    "title": "Shopify's Guide to Dropshipping (2024)"
+                    "name": "Shopify's Guide to Dropshipping (2024)",
+                    "link": ""
                 }
             ]
         }

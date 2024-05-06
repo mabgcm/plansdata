@@ -25,8 +25,14 @@
                 "Create a basic WordPress website with a default theme"
             ],
             "resources": [
-                "WordPress Codex: https://codex.wordpress.org/",
-                "WordPress Beginner's Guide: https://www.wpbeginner.com/beginners-guide/"
+                {
+                    "name": "WordPress Codex",
+                    "link": ""
+                },
+                {
+                    "name": "WordPress Beginner's Guide",
+                    "link": ""
+                }
             ]
         },
         {
@@ -49,8 +55,14 @@
                 "Organize content using categories, tags, and custom taxonomies"
             ],
             "resources": [
-                "WordPress Content Management: https://wordpress.org/support/article/content-management/",
-                "WordPress Taxonomy Guide: https://wordpress.org/support/article/taxonomies/"
+                {
+                    "name": "WordPress Content Management",
+                    "link": ""
+                },
+                {
+                    "name": "WordPress Taxonomy Guide",
+                    "link": ""
+                }
             ]
         },
         {
@@ -74,8 +86,14 @@
                 "Experiment with widgets, menus, and other theme-specific features"
             ],
             "resources": [
-                "WordPress Theme Handbook: https://developer.wordpress.org/themes/",
-                "WordPress Customizer Guide: https://wordpress.org/support/article/wordpress-customizer/"
+                {
+                    "name": "WordPress Theme Handbook",
+                    "link": ""
+                },
+                {
+                    "name": "WordPress Customizer Guide",
+                    "link": ""
+                }
             ]
         },
         {
@@ -99,8 +117,14 @@
                 "Configure and customize the installed plugins to fit your requirements"
             ],
             "resources": [
-                "WordPress Plugin Directory: https://wordpress.org/plugins/",
-                "WordPress Plugin Handbook: https://developer.wordpress.org/plugins/"
+                {
+                    "name": "WordPress Plugin Directory",
+                    "link": ""
+                },
+                {
+                    "name": "WordPress Plugin Handbook",
+                    "link": ""
+                }
             ]
         }
     ]
