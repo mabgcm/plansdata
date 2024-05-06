@@ -24,9 +24,18 @@
                 "Develop SMART goals for a personal social media marketing plan"
             ],
             "resources": [
-                "The Ultimate Guide to Social Media Marketing (ebook)",
-                "Social Media Marketing for Beginners (online course)",
-                "Social Media Examiner blog (website)"
+                {
+                    "name": "The Ultimate Guide to Social Media Marketing (ebook)",
+                    "link": ""
+                },
+                {
+                    "name": "Social Media Marketing for Beginners (online course)",
+                    "link": ""
+                },
+                {
+                    "name": "Social Media Examiner blog (website)",
+                    "link": ""
+                }
             ]
         },
         {
@@ -49,9 +58,18 @@
                 "Curate and share relevant content from industry influencers"
             ],
             "resources": [
-                "The Art of Social Media (book)",
-                "Canva (design tool)",
-                "Hootsuite (social media management platform)"
+                {
+                    "name": "The Art of Social Media (book)",
+                    "link": ""
+                },
+                {
+                    "name": "Canva (design tool)",
+                    "link": ""
+                },
+                {
+                    "name": "Hootsuite (social media management platform)",
+                    "link": ""
+                }
             ]
         },
         {
@@ -74,9 +92,18 @@
                 "Participate in relevant online communities and discussions"
             ],
             "resources": [
-                "The Science of Social Media (podcast)",
-                "Sprout Social (social media management tool)",
-                "Buffer (social media scheduling and analytics)"
+                {
+                    "name": "The Science of Social Media (podcast)",
+                    "link": ""
+                },
+                {
+                    "name": "Sprout Social (social media management tool)",
+                    "link": ""
+                },
+                {
+                    "name": "Buffer (social media scheduling and analytics)",
+                    "link": ""
+                }
             ]
         },
         {
@@ -99,9 +126,18 @@
                 "Develop a plan to optimize your social media marketing strategy based on the analytics"
             ],
             "resources": [
-                "The Ultimate Guide to Social Media Advertising (ebook)",
-                "Facebook Ads Manager (advertising platform)",
-                "Google Analytics (web analytics tool)"
+                {
+                    "name": "The Ultimate Guide to Social Media Advertising (ebook)",
+                    "link": ""
+                },
+                {
+                    "name": "Facebook Ads Manager (advertising platform)",
+                    "link": ""
+                },
+                {
+                    "name": "Google Analytics (web analytics tool)",
+                    "link": ""
+                }
             ]
         }
     ]
