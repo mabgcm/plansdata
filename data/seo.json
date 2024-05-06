@@ -24,9 +24,12 @@
             "resources": [
                 {
                     "name": "Beginner's Guide to SEO by Moz",
-                    "link": "google.com"
+                    "link": "https://google.com"
                 },
-                "SEO Fundamentals Course by Coursera"
+                {
+                    "name": "SEO Fundamentals Course by Coursera",
+                    "link": ""
+                }
             ]
         },
         {
