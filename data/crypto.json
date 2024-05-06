@@ -1,107 +1,127 @@
 {
     "id": "crypto",
-    "title": "Cryptocurrency Trading Self-Learning Plan",
+    "title": "Crypto Trading Fundamentals",
     "lessonLevel": "Beginner",
-    "description": "This self-learning plan will guide you through the fundamentals of cryptocurrency trading, including market analysis, trading strategies, and risk management.",
+    "description": "This self-learning plan offers a comprehensive introduction to the world of cryptocurrency trading, covering essential topics, learning objectives, and weekly tasks to help beginners navigate the crypto market.",
     "weeks": [
         {
             "week": 1,
-            "title": "Introduction to Cryptocurrencies",
-            "studyHours": "8 hours",
+            "title": "Introduction to Cryptocurrencies and Trading",
+            "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Understand the history and evolution of cryptocurrencies",
-                "Learn about the key features and characteristics of cryptocurrencies",
-                "Explore the different types of cryptocurrencies and their use cases"
+                "Understand what cryptocurrencies are and how they work",
+                "Learn about the history of cryptocurrencies",
+                "Familiarize with basic trading concepts and terminology"
             ],
             "topicsToCover": [
-                "What is a cryptocurrency?",
-                "The blockchain technology behind cryptocurrencies",
-                "Major cryptocurrencies and their features"
+                "Overview of cryptocurrencies",
+                "History and evolution of Bitcoin and altcoins",
+                "Basic trading concepts: exchanges, wallets, orders, and trades"
             ],
             "weeklyTasks": [
-                "Research the history and development of cryptocurrencies",
-                "Identify the key differences between various cryptocurrencies",
-                "Explore the use cases of cryptocurrencies in the real world"
+                "Create a demo account on a cryptocurrency exchange",
+                "Explore different types of cryptocurrency wallets",
+                "Practice placing buy and sell orders using a demo account"
             ],
             "resources": [
-                "Cryptocurrency 101: A Beginner's Guide [1]",
-                "The Blockchain Explained in Simple Terms [2]",
-                "Top 10 Cryptocurrencies to Invest in 2024 [3]"
+                {
+                    "name": "Bitcoin Whitepaper by Satoshi Nakamoto",
+                    "link": ""
+                },
+                {
+                    "name": "Cryptocurrency Trading: A Beginner's Guide by Blockgeeks",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 2,
-            "title": "Cryptocurrency Market Analysis",
-            "studyHours": "10 hours",
+            "title": "Technical Analysis and Market Indicators",
+            "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Understand the factors that influence cryptocurrency prices",
-                "Learn how to analyze cryptocurrency market trends and patterns",
-                "Develop skills in technical and fundamental analysis"
+                "Understand the basics of technical analysis",
+                "Learn about key market indicators and chart patterns",
+                "Explore tools and platforms for technical analysis"
             ],
             "topicsToCover": [
-                "Factors affecting cryptocurrency prices",
-                "Technical analysis of cryptocurrency markets",
-                "Fundamental analysis of cryptocurrency projects"
+                "Introduction to technical analysis",
+                "Common chart patterns and what they signify",
+                "Key market indicators: volume, RSI, MACD"
             ],
             "weeklyTasks": [
-                "Analyze the price movements of major cryptocurrencies",
-                "Identify and interpret technical indicators used in cryptocurrency trading",
-                "Research the fundamentals of promising cryptocurrency projects"
+                "Analyze historical price charts of major cryptocurrencies",
+                "Identify common chart patterns and indicators in real-time market data",
+                "Use technical analysis tools on a trading platform"
             ],
             "resources": [
-                "Factors That Influence Cryptocurrency Prices [4]",
-                "Technical Analysis for Cryptocurrency Trading [5]",
-                "Fundamental Analysis of Cryptocurrency Projects [6]"
+                {
+                    "name": "Technical Analysis of the Financial Markets by John J. Murphy",
+                    "link": ""
+                },
+                {
+                    "name": "Cryptocurrency Technical Analysis Fundamentals by CoinMarketCap",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 3,
-            "title": "Cryptocurrency Trading Strategies",
-            "studyHours": "12 hours",
+            "title": "Trading Strategies and Risk Management",
+            "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Explore different cryptocurrency trading strategies",
-                "Learn how to manage risk and protect your investments",
-                "Develop a personalized trading plan"
+                "Explore different trading strategies used in crypto trading",
+                "Understand the importance of risk management",
+                "Learn about setting stop-loss and take-profit orders"
             ],
             "topicsToCover": [
-                "Common cryptocurrency trading strategies",
-                "Risk management techniques in cryptocurrency trading",
-                "Developing a personalized trading plan"
+                "Overview of trading strategies: day trading, swing trading, scalping",
+                "Risk management techniques",
+                "Setting stop-loss and take-profit orders"
             ],
             "weeklyTasks": [
-                "Research and compare various cryptocurrency trading strategies",
-                "Identify and implement effective risk management practices",
-                "Create a personalized trading plan based on your goals and risk tolerance"
+                "Develop a simple trading strategy based on technical analysis",
+                "Practice risk management by setting stop-loss and take-profit orders",
+                "Evaluate the performance of your trading strategy using a demo account"
             ],
             "resources": [
-                "Top Cryptocurrency Trading Strategies [7]",
-                "Risk Management in Cryptocurrency Trading [8]",
-                "How to Create a Cryptocurrency Trading Plan [9]"
+                {
+                    "name": "The Art and Science of Technical Analysis by Adam Grimes",
+                    "link": ""
+                },
+                {
+                    "name": "Risk Management in Cryptocurrency Trading by Binance Academy",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 4,
-            "title": "Cryptocurrency Trading Practice",
-            "studyHours": "8 hours",
+            "title": "Advanced Topics and Keeping Up with the Market",
+            "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Apply the knowledge and skills learned in the previous weeks",
-                "Practice cryptocurrency trading in a simulated environment",
-                "Evaluate and refine your trading plan"
+                "Learn about advanced trading concepts and tools",
+                "Understand the impact of news and market sentiment on crypto prices",
+                "Explore resources for staying informed about the crypto market"
             ],
             "topicsToCover": [
-                "Practicing cryptocurrency trading in a demo account",
-                "Analyzing your trading performance and adjusting your plan",
-                "Preparing for live cryptocurrency trading"
+                "Leverage and margin trading",
+                "The impact of news, events, and market sentiment",
+                "Resources for crypto market news and analysis"
             ],
             "weeklyTasks": [
-                "Practice cryptocurrency trading using a demo account",
-                "Analyze your trading results and identify areas for improvement",
-                "Finalize your personalized cryptocurrency trading plan"
+                "Explore a trading platform that offers leverage and margin trading",
+                "Analyze how recent news events affected cryptocurrency prices",
+                "Subscribe to newsletters and follow influencers for market insights"
             ],
             "resources": [
-                "Cryptocurrency Trading Simulator [10]",
-                "Evaluating and Improving Your Cryptocurrency Trading Plan [11]",
-                "Tips for Transitioning to Live Cryptocurrency Trading [12]"
+                {
+                    "name": "Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond by Chris Burniske and Jack Tatar",
+                    "link": ""
+                },
+                {
+                    "name": "Daily cryptocurrency news and analysis by CoinDesk",
+                    "link": ""
+                }
             ]
         }
     ]
