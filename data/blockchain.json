@@ -25,9 +25,18 @@
                 "Explore the basic structure and components of a blockchain network"
             ],
             "resources": [
-                "Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher",
-                "Blockchain Revolution by Don Tapscott and Alex Tapscott",
-                "Blockchain: The Insights You Need from Harvard Business Review"
+                {
+                    "name": "Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher",
+                    "link": ""
+                },
+                {
+                    "name": "Blockchain Revolution by Don Tapscott and Alex Tapscott",
+                    "link": ""
+                },
+                {
+                    "name": "Blockchain: The Insights You Need from Harvard Business Review",
+                    "link": ""
+                }
             ]
         },
         {
@@ -51,9 +60,18 @@
                 "Evaluate the suitability of consensus algorithms for different blockchain use cases"
             ],
             "resources": [
-                "Mastering Blockchain by Imran Bashir",
-                "Consensus Mechanisms for Blockchain Technology by Vitalik Buterin",
-                "Blockchain Consensus Mechanisms: A Primer by Binance Academy"
+                {
+                    "name": "Mastering Blockchain by Imran Bashir",
+                    "link": ""
+                },
+                {
+                    "name": "Consensus Mechanisms for Blockchain Technology by Vitalik Buterin",
+                    "link": ""
+                },
+                {
+                    "name": "Blockchain Consensus Mechanisms: A Primer by Binance Academy",
+                    "link": ""
+                }
             ]
         },
         {
@@ -77,9 +95,18 @@
                 "Explore existing dApps and analyze their features and use cases"
             ],
             "resources": [
-                "Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood",
-                "Solidity Documentation",
-                "Building Decentralized Applications with Ethereum and Solidity by Packt Publishing"
+                {
+                    "name": "Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood",
+                    "link": ""
+                },
+                {
+                    "name": "Solidity Documentation",
+                    "link": ""
+                },
+                {
+                    "name": "Building Decentralized Applications with Ethereum and Solidity by Packt Publishing",
+                    "link": ""
+                }
             ]
         },
         {
@@ -102,9 +129,18 @@
                 "Explore the potential future developments and innovations in the blockchain space"
             ],
             "resources": [
-                "The Business Blockchain by William Mougayar",
-                "Blockchain: Blueprint for a New Economy by Melanie Swan",
-                "Blockchain Enabled Applications by Vikram Dhillon, David Metcalf, and Max Hooper"
+                {
+                    "name": "The Business Blockchain by William Mougayar",
+                    "link": ""
+                },
+                {
+                    "name": "Blockchain: Blueprint for a New Economy by Melanie Swan",
+                    "link": ""
+                },
+                {
+                    "name": "Blockchain Enabled Applications by Vikram Dhillon, David Metcalf, and Max Hooper",
+                    "link": ""
+                }
             ]
         }
     ]

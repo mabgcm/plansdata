@@ -1,27 +1,11 @@
 [
     {
-        "id": "seo",
-        "title": "SEO Fundamentals",
-        "description": "This curriculum is designed to introduce beginners to the fundamentals of Search Engine Optimization (SEO). It covers key concepts, strategies, and practical techniques to help learners improve the visibility and ranking of their websites on search engine results pages.",
-        "duration": "6 weeks",
-        "hoursPerWeek": "3-5",
-        "image": "seo.jpg"
-    },
-    {
         "id": "amazonfba",
         "title": "Amazon FBA",
         "description": "This comprehensive course covers the fundamentals of Amazon FBA (Fulfillment by Amazon), including product research, sourcing, listing optimization, and inventory management to help you build a successful Amazon business.",
         "duration": "4 weeks",
         "hoursPerWeek": "4-6",
         "image": "amazonfba.jpg"
-    },
-    {
-        "id": "amazonfbm",
-        "title": "Amazon FBM",
-        "description": "This course focuses on Amazon FBM (Fulfillment by Merchant), teaching you how to sell on Amazon while handling the fulfillment and logistics yourself. Learn strategies for product selection, pricing, and customer service to thrive on the Amazon marketplace.",
-        "duration": "4 weeks",
-        "hoursPerWeek": "3-5",
-        "image": "amazonfbm.jpg"
     },
     {
         "id": "blockchain",
@@ -56,7 +40,6 @@
         "image": "cybersecurity.jpg"
     },
     {
-        
         "id": "digitalmarketing",
         "title": "Digital Marketing Essentials",
         "description": "Dive into the world of digital marketing and learn strategies for search engine optimization (SEO), social media marketing, email marketing, and content creation to grow your online presence and attract more customers.",
@@ -71,6 +54,14 @@
         "duration": "4 weeks",
         "hoursPerWeek": "3-5",
         "image": "emailmarketing.jpg"
+    },
+    {
+        "id": "seo",
+        "title": "SEO Fundamentals",
+        "description": "This curriculum is designed to introduce beginners to the fundamentals of Search Engine Optimization (SEO). It covers key concepts, strategies, and practical techniques to help learners improve the visibility and ranking of their websites on search engine results pages.",
+        "duration": "6 weeks",
+        "hoursPerWeek": "3-5",
+        "image": "seo.jpg"
     },
     {
         "id": "shopify",
