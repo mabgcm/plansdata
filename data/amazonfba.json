@@ -26,9 +26,18 @@
                 "Shortlist 3-5 potential product ideas"
             ],
             "resources": [
-                "Amazon FBA Beginner's Guide",
-                "Product Research Strategies for Amazon FBA",
-                "Amazon Seller Central Documentation"
+                {
+                    "name": "Amazon FBA Beginner's Guide",
+                    "link": ""
+                },
+                {
+                    "name": "Product Research Strategies for Amazon FBA",
+                    "link": ""
+                },
+                {
+                    "name": "Amazon Seller Central Documentation",
+                    "link": ""
+                }
             ]
         },
         {
@@ -52,9 +61,18 @@
                 "Create product listings on Amazon"
             ],
             "resources": [
-                "Supplier Sourcing for Amazon FBA",
-                "Negotiation Strategies for Amazon FBA",
-                "Amazon Product Listing Optimization Guide"
+                {
+                    "name": "Supplier Sourcing for Amazon FBA",
+                    "link": ""
+                },
+                {
+                    "name": "Negotiation Strategies for Amazon FBA",
+                    "link": ""
+                },
+                {
+                    "name": "Amazon Product Listing Optimization Guide",
+                    "link": ""
+                }
             ]
         },
         {
@@ -77,9 +95,18 @@
                 "Develop an Amazon advertising and marketing plan"
             ],
             "resources": [
-                "Amazon FBA Inventory Management Best Practices",
-                "Shipping and Logistics for Amazon FBA Sellers",
-                "Amazon Advertising and Marketing Strategies"
+                {
+                    "name": "Amazon FBA Inventory Management Best Practices",
+                    "link": ""
+                },
+                {
+                    "name": "Shipping and Logistics for Amazon FBA Sellers",
+                    "link": ""
+                },
+                {
+                    "name": "Amazon Advertising and Marketing Strategies",
+                    "link": ""
+                }
             ]
         },
         {
@@ -102,9 +129,18 @@
                 "Explore and utilize Amazon seller tools and resources"
             ],
             "resources": [
-                "Strategies for Scaling an Amazon FBA Business",
-                "Amazon Seller Performance Metrics and Optimization",
-                "Top Amazon Seller Tools and Resources"
+                {
+                    "name": "Strategies for Scaling an Amazon FBA Business",
+                    "link": ""
+                },
+                {
+                    "name": "Amazon Seller Performance Metrics and Optimization",
+                    "link": ""
+                },
+                {
+                    "name": "Top Amazon Seller Tools and Resources",
+                    "link": ""
+                }
             ]
         }
     ]
