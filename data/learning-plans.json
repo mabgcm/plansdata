@@ -8,6 +8,14 @@
         "image": "amazonfba.jpg"
     },
     {
+        "id": "amazonfbm",
+        "title": "Amazon FBM",
+        "description": "This course focuses on Amazon FBM (Fulfillment by Merchant), teaching you how to sell on Amazon while handling the fulfillment and logistics yourself. Learn strategies for product selection, pricing, and customer service to thrive on the Amazon marketplace.",
+        "duration": "4 weeks",
+        "hoursPerWeek": "3-5",
+        "image": "amazonfbm.jpg"
+    },
+    {
         "id": "blockchain",
         "title": "Blockchain Fundamentals",
         "description": "Dive into the world of blockchain technology with this comprehensive course. Learn about the core principles, applications, and potential of blockchain, including cryptocurrencies, smart contracts, and decentralized finance (DeFi).",

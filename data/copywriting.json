@@ -1,108 +1,127 @@
 {
-    "id": "copywriting",
-    "title": "Starting an Amazon FBM Business",
+    "id": "copywritingbasics",
+    "title": "Copywriting Fundamentals for Beginners",
     "lessonLevel": "Beginner",
-    "description": "This self-learning plan provides a step-by-step guide for starting an Amazon FBM business, including key topics, learning objectives, and weekly tasks.",
+    "description": "A comprehensive 4-week self-learning plan to master the basics of copywriting, understand effective writing techniques, and learn how to create compelling content that converts.",
     "weeks": [
         {
             "week": 1,
-            "title": "Introduction to Amazon FBM",
+            "title": "Introduction to Copywriting",
             "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Understand the Amazon FBM model and its benefits",
-                "Learn about the Amazon seller account setup process",
-                "Familiarize with Amazon's policies and requirements for FBM sellers"
+                "Understand the role and importance of copywriting in marketing",
+                "Learn the basics of writing compelling copy",
+                "Familiarize with different types of copywriting"
             ],
             "topicsToCover": [
-                "What is Amazon FBM?",
-                "Advantages of the FBM model",
-                "Amazon seller account registration",
-                "Amazon's FBM policies and guidelines"
+                "What is copywriting?",
+                "The principles of persuasive writing",
+                "Overview of various copywriting formats (ads, web content, emails)"
             ],
             "weeklyTasks": [
-                "Complete Amazon seller account registration",
-                "Review Amazon's FBM policies and requirements",
-                "Identify potential product categories to sell on Amazon"
+                "Read introductory materials on copywriting",
+                "Analyze examples of effective copy from various formats",
+                "Write a short piece of copy for a hypothetical product"
             ],
             "resources": [
-                "Amazon Seller Central documentation on FBM",
-                "Online tutorials and guides on starting an Amazon FBM business"
+                {
+                    "name": "Copywriting 101: The Fundamentals of Copy by Copyblogger",
+                    "link": ""
+                },
+                {
+                    "name": "Examples of Effective Copywriting",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 2,
-            "title": "Product Research and Sourcing",
+            "title": "Crafting Compelling Content",
             "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Conduct thorough product research to identify profitable opportunities",
-                "Learn effective strategies for sourcing products from suppliers",
-                "Understand the importance of product pricing and profit margins"
+                "Master the art of headline writing",
+                "Learn techniques for engaging and retaining reader interest",
+                "Understand the importance of call-to-action (CTA)"
             ],
             "topicsToCover": [
-                "Product research techniques",
-                "Evaluating product demand and competition",
-                "Supplier identification and negotiation",
-                "Pricing strategies for FBM sellers"
+                "How to write attention-grabbing headlines",
+                "Building a narrative flow that retains readers",
+                "Effective CTAs and their placement"
             ],
             "weeklyTasks": [
-                "Conduct product research and identify potential products to sell",
-                "Reach out to potential suppliers and negotiate wholesale prices",
-                "Determine optimal pricing for selected products"
+                "Practice writing various types of headlines",
+                "Create a blog post with a strong narrative and clear CTA",
+                "Gather feedback on your written content from peers or mentors"
             ],
             "resources": [
-                "Online tools for product research (e.g., Jungle Scout, Helium 10)",
-                "Guides on effective supplier sourcing and negotiation"
+                {
+                    "name": "The Copywriter's Handbook by Robert W. Bly",
+                    "link": ""
+                },
+                {
+                    "name": "Online course on headline writing",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 3,
-            "title": "Inventory Management and Fulfillment",
+            "title": "SEO and Digital Copywriting",
             "studyHours": "8-10 hours",
             "learningObjectives": [
-                "Understand the importance of efficient inventory management",
-                "Learn about the fulfillment process for FBM sellers",
-                "Develop a plan for handling customer orders and returns"
+                "Understand the basics of SEO and its importance in copywriting",
+                "Learn how to optimize content for search engines",
+                "Explore tools for keyword research and SEO analysis"
             ],
             "topicsToCover": [
-                "Inventory planning and forecasting",
-                "Warehouse management and storage",
-                "Fulfillment workflows and logistics",
-                "Customer service and returns management"
+                "Introduction to SEO for copywriters",
+                "Keyword research and integration",
+                "Writing SEO-friendly content"
             ],
             "weeklyTasks": [
-                "Develop an inventory management system",
-                "Research and select a fulfillment solution (e.g., in-house, third-party logistics)",
-                "Create a customer service and returns policy"
+                "Conduct keyword research for a given topic",
+                "Write an SEO-optimized article using researched keywords",
+                "Use SEO tools to analyze and improve your content"
             ],
             "resources": [
-                "Guides on inventory management for FBM sellers",
-                "Information on fulfillment options and third-party logistics providers"
+                {
+                    "name": "SEO Copywriting Tips for Writing Content that Ranks in Google",
+                    "link": ""
+                },
+                {
+                    "name": "Keyword Research Tools and Techniques",
+                    "link": ""
+                }
             ]
         },
         {
             "week": 4,
-            "title": "Marketing and Sales Optimization",
+            "title": "Advanced Copywriting Strategies",
             "studyHours": "10-12 hours",
             "learningObjectives": [
-                "Develop effective product listings and marketing strategies",
-                "Understand Amazon's advertising and promotion tools",
-                "Learn how to analyze and optimize sales performance"
+                "Explore advanced techniques for persuasive writing",
+                "Learn about writing for different platforms and audiences",
+                "Develop strategies for testing and optimizing copy"
             ],
             "topicsToCover": [
-                "Product listing optimization",
-                "Amazon advertising and sponsored products",
-                "Customer reviews and feedback management",
-                "Sales data analysis and performance optimization"
+                "Psychological triggers in copywriting",
+                "Adapting tone and style for different platforms",
+                "A/B testing for copy optimization"
             ],
             "weeklyTasks": [
-                "Create and optimize product listings for selected products",
-                "Set up Amazon advertising campaigns and monitor performance",
-                "Develop a strategy for managing customer reviews and feedback"
+                "Experiment with writing for different platforms (social media, email, web)",
+                "Conduct an A/B test on different versions of an advertisement",
+                "Analyze the results and refine your copy based on feedback"
             ],
             "resources": [
-                "Guides on Amazon product listing optimization",
-                "Information on Amazon advertising and promotion tools",
-                "Resources on sales data analysis and performance optimization"
+                {
+                    "name": "Influence: The Psychology of Persuasion by Robert Cialdini",
+                    "link": ""
+                },
+                {
+                    "name": "Guide to A/B Testing for Copywriters",
+                    "link": ""
+                }
             ]
         }
     ]
