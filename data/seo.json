@@ -22,7 +22,10 @@
                 "Identify and prioritize key SEO opportunities"
             ],
             "resources": [
-                "Beginner's Guide to SEO by Moz",
+                {
+                    "name": "Beginner's Guide to SEO by Moz",
+                    "link": "google.com"
+                },
                 "SEO Fundamentals Course by Coursera"
             ]
         },
